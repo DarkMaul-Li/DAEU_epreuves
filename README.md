@@ -22,7 +22,7 @@ L'épreuve n°3 du module Numérique du DAEU évalue deux compétences compléme
 ## 📁 Fichiers du dépôt
 
 ```
-pratique_2026/
+DAEU_epreuves/
 ├── README.md                            ← ce fichier
 ├── DAEU_Logique_Epreuve3_excel.xlsx     ← fichier Excel à télécharger et compléter
 └── DAEU_Epreuve3_Consignes.docx         ← document de consignes complet (impression)
