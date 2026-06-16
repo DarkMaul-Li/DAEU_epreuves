@@ -35,7 +35,7 @@ pratique_2026/
 ### Téléchargement et mise en route
 
 1. **Allumez l'ordinateur** uniquement après avoir remis votre copie QCM au professeur.
-2. Rendez-vous sur ce dépôt : **[darksathili-jpg.github.io/pratique_2026](https://darksathili-jpg.github.io/pratique_2026)**
+2. Rendez-vous sur ce dépôt : **[Dépôt DAEU](https://github.com/DarkMaul-Li/DAEU_epreuves)**
 3. Téléchargez le fichier **`DAEU_Logique_Epreuve3_excel.xlsx`** et ouvrez-le dans Excel.
 4. Enregistrez-le immédiatement sous **`NOM_Prénom_Excel.xlsx`** sur le bureau.
 5. À la fin de l'épreuve, déposez votre fichier dans le répertoire portant votre nom sur la clé USB mise à disposition.
@@ -176,10 +176,10 @@ Excel                              Python
 
 ## 🔗 Ressources du cours
 
-- Dépôt principal du cours : [darksathili-jpg.github.io/pratique_2026](https://darksathili-jpg.github.io/pratique_2026)
+- Dépôt principal du cours : [Dépôt DAEU](https://github.com/DarkMaul-Li/DAEU_epreuves).
 - Feuille de cours Excel (logique) : disponible sur le dépôt principal
 - Supports Python : disponibles sur le dépôt principal
 
 ---
 
-<sub>Épreuve n°3 · DAEU Numérique · Session 2, 2026 · Lycée du Mont-Houy, Valenciennes · M. Sautière</sub>
+<sub>Épreuve n°3 · DAEU Numérique · Session 2, 2026 · Université du Mont-Houy, Valenciennes · M. Sautière</sub>
