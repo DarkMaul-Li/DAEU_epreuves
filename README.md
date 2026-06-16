@@ -1,11 +1,11 @@
-# 📐 DAEU Numérique — Épreuve n°3 · Session 2, 2026
+# DAEU Numérique — Épreuve n°3 · Session 2, 2026
 
-> **Lycée du Mont-Houy · Valenciennes · Académie de Lille**
+> **Université du Mont-Houy · Valenciennes · Académie de Lille**
 > Module Informatique · Niveau 10 · Professeur : M. Sautière
 
 ---
 
-## 📋 Présentation de l'épreuve
+## Présentation de l'épreuve
 
 L'épreuve n°3 du module Numérique du DAEU évalue deux compétences complémentaires : la **maîtrise des fonctions logiques dans Excel** et la **programmation en Python**. Elle se déroule en **2 heures** et est notée sur **20 points**.
 
@@ -15,7 +15,7 @@ L'épreuve n°3 du module Numérique du DAEU évalue deux compétences compléme
 | **Partie 2 — Excel** | Ordinateur | Fonctions SI, ET, OU — formules à paliers | ≤ 45 min | 15 pts |
 | | | **Total ramené sur 20** | **2h** | **35 → /20** |
 
-> ⚠️ **Ordre obligatoire** : le QCM papier doit être rendu au professeur **avant** d'allumer les ordinateurs. Aucun retour en arrière possible.
+> **Ordre obligatoire** : le QCM papier doit être rendu au professeur **avant** d'allumer les ordinateurs. Aucun retour en arrière possible.
 
 ---
 
@@ -30,7 +30,7 @@ pratique_2026/
 
 ---
 
-## 🖥️ Partie 2 — Exercices Excel
+## Partie 2 — Exercices Excel
 
 ### Téléchargement et mise en route
 
@@ -52,7 +52,7 @@ Le fichier contient **trois feuilles de calcul**, une par exercice. Chaque feuil
 
 ---
 
-### Exercice 1 — Licences de football ⚽ `SI + ET` · 5 pts
+### Exercice 1 — Licences de football `SI + ET` · 5 pts
 
 **Contexte :** Le club US Valenciennois délivre une licence officielle uniquement si le joueur remplit **toutes** les conditions simultanément.
 
@@ -77,7 +77,7 @@ Le fichier contient **trois feuilles de calcul**, une par exercice. Chaque feuil
 
 ---
 
-### Exercice 2 — Prêt prolongé à la bibliothèque 📚 `SI + OU` · 5 pts
+### Exercice 2 — Prêt prolongé à la bibliothèque `SI + OU` · 5 pts
 
 **Contexte :** La médiathèque de Valenciennes accorde un prêt de **28 jours** (au lieu de 14) si **au moins une** condition est vraie.
 
@@ -101,7 +101,7 @@ Le fichier contient **trois feuilles de calcul**, une par exercice. Chaque feuil
 
 ---
 
-### Exercice 3 — Frais de livraison traiteur 🍽 `SI + ET + OU imbriqués` · 5 pts
+### Exercice 3 — Frais de livraison traiteur `SI + ET + OU imbriqués` · 5 pts
 
 **Contexte :** Le traiteur *Saveurs du Nord* applique des frais de livraison à **paliers** selon le montant et le nombre de couverts.
 
@@ -111,7 +111,7 @@ Le fichier contient **trois feuilles de calcul**, une par exercice. Chaque feuil
    IF(couverts>=5 ; "RÉDUIT (3,50 €)" ;
       "STANDARD (7,00 €)"))
 ```
-> 💡 **Indice :** tester la gratuité en **premier** avec `SI + OU`, puis imbriquer les `SI` pour les paliers suivants.
+> **Indice :** tester la gratuité en **premier** avec `SI + OU`, puis imbriquer les `SI` pour les paliers suivants.
 
 **Barème :**
 
@@ -124,7 +124,7 @@ Le fichier contient **trois feuilles de calcul**, une par exercice. Chaque feuil
 
 ---
 
-## 📝 Partie 1 — QCM (rappel de structure)
+## Partie 1 — QCM (rappel de structure)
 
 Le QCM est distribué en **format papier** et n'est pas disponible sur ce dépôt. Il comporte **40 questions** réparties en 10 parties.
 
@@ -159,7 +159,7 @@ Excel                              Python
 
 ---
 
-## 📌 Informations pratiques
+## Informations pratiques
 
 | | |
 |-|-|
@@ -176,9 +176,9 @@ Excel                              Python
 
 ## 🔗 Ressources du cours
 
-- 📂 Dépôt principal du cours : [darksathili-jpg.github.io/pratique_2026](https://darksathili-jpg.github.io/pratique_2026)
-- 📘 Feuille de cours Excel (logique) : disponible sur le dépôt principal
-- 🐍 Supports Python : disponibles sur le dépôt principal
+- Dépôt principal du cours : [darksathili-jpg.github.io/pratique_2026](https://darksathili-jpg.github.io/pratique_2026)
+- Feuille de cours Excel (logique) : disponible sur le dépôt principal
+- Supports Python : disponibles sur le dépôt principal
 
 ---
 
